@@ -1,0 +1,91 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="69">
+            <item index="0" class="java.lang.String" itemvalue="protobuf" />
+            <item index="1" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="2" class="java.lang.String" itemvalue="tensorflow-estimator" />
+            <item index="3" class="java.lang.String" itemvalue="joblib" />
+            <item index="4" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="5" class="java.lang.String" itemvalue="opt-einsum" />
+            <item index="6" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="7" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="8" class="java.lang.String" itemvalue="sklearn" />
+            <item index="9" class="java.lang.String" itemvalue="cycler" />
+            <item index="10" class="java.lang.String" itemvalue="gast" />
+            <item index="11" class="java.lang.String" itemvalue="mkl-random" />
+            <item index="12" class="java.lang.String" itemvalue="jdcal" />
+            <item index="13" class="java.lang.String" itemvalue="mkl-fft" />
+            <item index="14" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="15" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="16" class="java.lang.String" itemvalue="tensorboard-plugin-wit" />
+            <item index="17" class="java.lang.String" itemvalue="certifi" />
+            <item index="18" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="19" class="java.lang.String" itemvalue="pyreadline" />
+            <item index="20" class="java.lang.String" itemvalue="wincertstore" />
+            <item index="21" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="22" class="java.lang.String" itemvalue="h5py" />
+            <item index="23" class="java.lang.String" itemvalue="astor" />
+            <item index="24" class="java.lang.String" itemvalue="Keras" />
+            <item index="25" class="java.lang.String" itemvalue="mkl-service" />
+            <item index="26" class="java.lang.String" itemvalue="gensim" />
+            <item index="27" class="java.lang.String" itemvalue="scipy" />
+            <item index="28" class="java.lang.String" itemvalue="arrow" />
+            <item index="29" class="java.lang.String" itemvalue="pytest" />
+            <item index="30" class="java.lang.String" itemvalue="boto" />
+            <item index="31" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="32" class="java.lang.String" itemvalue="pep8" />
+            <item index="33" class="java.lang.String" itemvalue="tox-pyenv" />
+            <item index="34" class="java.lang.String" itemvalue="numpy" />
+            <item index="35" class="java.lang.String" itemvalue="Logbook" />
+            <item index="36" class="java.lang.String" itemvalue="bz2file" />
+            <item index="37" class="java.lang.String" itemvalue="smart-open" />
+            <item index="38" class="java.lang.String" itemvalue="biopython" />
+            <item index="39" class="java.lang.String" itemvalue="ConfigArgParse" />
+            <item index="40" class="java.lang.String" itemvalue="tox" />
+            <item index="41" class="java.lang.String" itemvalue="pandas" />
+            <item index="42" class="java.lang.String" itemvalue="python" />
+            <item index="43" class="java.lang.String" itemvalue="cython" />
+            <item index="44" class="java.lang.String" itemvalue="pytorch" />
+            <item index="45" class="java.lang.String" itemvalue="huggingface-hub" />
+            <item index="46" class="java.lang.String" itemvalue="requests" />
+            <item index="47" class="java.lang.String" itemvalue="torchvision" />
+            <item index="48" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="49" class="java.lang.String" itemvalue="filelock" />
+            <item index="50" class="java.lang.String" itemvalue="sentencepiece" />
+            <item index="51" class="java.lang.String" itemvalue="zipp" />
+            <item index="52" class="java.lang.String" itemvalue="urllib3" />
+            <item index="53" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="54" class="java.lang.String" itemvalue="torchaudio" />
+            <item index="55" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="56" class="java.lang.String" itemvalue="transformers" />
+            <item index="57" class="java.lang.String" itemvalue="dataclasses" />
+            <item index="58" class="java.lang.String" itemvalue="sacremoses" />
+            <item index="59" class="java.lang.String" itemvalue="packaging" />
+            <item index="60" class="java.lang.String" itemvalue="torch" />
+            <item index="61" class="java.lang.String" itemvalue="click" />
+            <item index="62" class="java.lang.String" itemvalue="tqdm" />
+            <item index="63" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="64" class="java.lang.String" itemvalue="regex" />
+            <item index="65" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="66" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="67" class="java.lang.String" itemvalue="idna" />
+            <item index="68" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Exception.orig" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
