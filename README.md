@@ -9,7 +9,7 @@ DeepFusionCDR is a novel approach employing self-supervised contrastive learning
 - scipy 1.7.3
 - rdkit 2020.09.1.0
 # Data
-In this study, we assessed DeepFusionCDR using both classification and regression tasks. For the regression task, we primarily used IC50 values for cell line-drug pairs from the GDSC database\cite{yang2012genomics} and CCLE database\cite{barretina2012cancer}. We downloaded multiple omics features of cell lines from both the GDSC and CCLE databases, and then selected cell lines that concurrently possessed CNV, gene mutation, transcriptomics, and methylation features, and had drug SMILE strings available in PubChem.
+In this study, we assessed DeepFusionCDR using both classification and regression tasks. For the regression task, we primarily used IC50 values for cell line-drug pairs from the GDSC database\cite{yang2012genomics} and CCLE database. We downloaded multiple omics features of cell lines from both the GDSC and CCLE databases, and then selected cell lines that concurrently possessed CNV, gene mutation, transcriptomics, and methylation features, and had drug SMILE strings available in PubChem.
 
 The transcriptomics analysis involved applying RMA normalization to RNA data, while methylation assessment used pre-processed CpG islands' $\beta$-values. We encoded gene mutation data in binary format and represented copy number variation (CNV) data ternary format, designating gene loss, normal copy number, and gene gain as -1, 0, and 1, respectively. As a result, we compiled a dataset consisting of 68,996 IC50 value pairs between 489 cell lines and 297 drugs.
 # Run the demo
